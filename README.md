@@ -1,5 +1,5 @@
 # Project 7 - WordPress Pentesting
-Using this existing page, because my github appears to be broken and newly create repos just kinda don't work.
+
 Time spent: **3** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
